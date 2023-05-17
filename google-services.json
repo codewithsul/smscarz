@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652496819499",
+    "project_id": "smscarz",
+    "storage_bucket": "smscarz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652496819499:android:02d35887faf0bb26dc616e",
+        "android_client_info": {
+          "package_name": "com.smscarz.smscarz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652496819499-drkjrd941j49opf1ao9305l49vdo6l0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyj6Ga2QPrpcnKRNb_RKvlyUUOOIWEA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652496819499-drkjrd941j49opf1ao9305l49vdo6l0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
